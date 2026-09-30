@@ -8,8 +8,7 @@
 
 * 🌐 [ShaharBand.com](https://ShaharBand.com/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/shahar-band/)
-* 📦 [GitHub](https://github.com/ShaharBand)
-
+* ✖️ [Twitter](https://twitter.com/shahar_band) 
 
 ### Public work
 
