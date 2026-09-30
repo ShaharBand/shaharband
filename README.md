@@ -1,11 +1,21 @@
-## Hey! I'm Shahar Band 👋
+# Hey, I'm Shahar 👋
 
-I'm a software developer 🤖 from Israel 🇮🇱.
+### Currently building
 
-I'm currently working on my open source projects.
+🚧 **Something new is under construction.**
+ 
+### Find me
 
-You can find me on:
+* 🌐 [ShaharBand.com](https://ShaharBand.com/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/shahar-band/)
+* 📦 [GitHub](https://github.com/ShaharBand)
 
-- 🌎 My Web [ShaharBand.com](https://ShaharBand.com/)
-- 👨‍💼 On [LinkedIn](https://www.linkedin.com/in/shahar-band/)
-- 🐦 On Twitter at [@shahar_band](https://twitter.com/shahar_band)
+
+### Public work
+
+**[fluxly](https://github.com/ShaharBand/fluxly)** — Lightweight framework for portable, self-contained, structured DAG workflows.
+
+[![PyPI](https://img.shields.io/pypi/v/fluxly?style=flat-square)](https://pypi.org/project/fluxly/)
+[![Python](https://img.shields.io/pypi/pyversions/fluxly?style=flat-square)](https://pypi.org/project/fluxly/)
+[![License](https://img.shields.io/github/license/ShaharBand/fluxly?style=flat-square)](https://github.com/ShaharBand/fluxly/blob/main/LICENSE)
+[![Docs](https://img.shields.io/badge/docs-shaharband.github.io-111111?style=flat-square)](https://shaharband.github.io/fluxly/)
